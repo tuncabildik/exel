@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+requests
+python-dotenv
+streamlit
+pandas
+streamlit-autorefresh
+
+
